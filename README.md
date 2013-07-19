@@ -1,0 +1,9 @@
+# Diploma work, "Shibboleth-21 Stego ACS" #
+
+Own Bachelor's degree diploma work. Prototype of the authentication system for enterprise which has many offices and employees. This web module is an administration console. It allows to create and manage database entries for offices and employees, it also has a demo page, which emulates authentication scanner.
+
+Basic principle of how the system works: administrator can create employee entry and generate unique authentication ID (it has certain structure, and includes checksum), which could be hidden into employee's personal photo via steganographical method, and this photo could be printed on personal pass card. Employee scans this card on clock house or facility/office entrance, system extracts ID and makes a decision to authenticate person.
+
+This system uses [Kutter-Jordan-Bossen](http://www.alpvision.com/pdf/3022-51.pdf "M. Kutter, F. Jordan, F. Bossen, "Digital signature of color images using amplitude modulation", Proc. of SPIE storage and retrieval for image and video databases, San Jose, USA, no. 3022-5, pp. 518-526, February 13-14, 1997.") steganographical algorithm for hiding information inside photo. It hides info in the blue color channel, is fast and strong to JPEG compression and various attacks (firstly, visual).
+
+Built with Spring Framework, Spring Security, PostgreSQL 9.1 and Twitter Bootstrap. Adopted for Heroku cloud. Front-end coded with Twitter Bootstrap. This software uses 3rd party [image utility library](http://www.gotoquiz.com/web-coding/programming/java-programming/resize-images-in-java-preserving-image-quality/ "Resize images in Java, preserving image quality") by gotoquiz.com.

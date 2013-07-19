@@ -1,0 +1,33 @@
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.out
+
+
+## Java Specific
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+## IntelliJ Specific
+*.eml
+*.iml
+*.ipr
+*.iws
+.*.sw?
+.idea/
+
+
+## Eclipse specific
+.metadata
+jrebel.lic
+.settings
+.classpath
+.project
+
+## Maven Specific
+target/
