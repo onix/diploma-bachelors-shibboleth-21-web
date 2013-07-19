@@ -1,0 +1,13 @@
+DROP TABLE stego_acs."acs_office_employee_granted_access";
+DROP TABLE stego_acs."acs_admins";
+DROP TABLE stego_acs."acs_pass_employee";
+DROP TABLE stego_acs."acs_auth_log";
+DROP TABLE stego_acs."acs_offices";
+DROP TABLE stego_acs."acs_employees";
+DROP TABLE stego_acs."acs_auth_log_type_of_entry";
+DROP SEQUENCE stego_acs."acs_admins_idAdmin_seq";
+DROP SEQUENCE stego_acs."acs_authLogTypeOfEntry_idType_seq";
+DROP SEQUENCE stego_acs."acs_authLog_idEntry_seq";
+DROP SEQUENCE stego_acs."acs_employees_idEmployee_seq";
+DROP SEQUENCE stego_acs."acs_offices_idOffice_seq";
+DROP SEQUENCE stego_acs."acs_officeEmployeeGrantedAccess_idAccess_seq";

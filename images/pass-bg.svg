@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="1011"
+   height="638"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3768">
+      <stop
+         id="stop3770"
+         style="stop-color:#f6ffb8;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3772"
+         style="stop-color:#ff0089;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="440"
+       y1="1053.0765"
+       x2="135.28572"
+       y2="437.36221"
+       id="linearGradient3776"
+       xlink:href="#linearGradient3768"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-414.36218)"
+     id="layer1">
+    <rect
+       width="1011"
+       height="638"
+       x="0"
+       y="414.36218"
+       id="rect2985"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       d="m 0,1032.6479 c 0,0 149.02088,-122.54897 311.50724,-109.76472 C 548.51211,941.53048 584.92216,823.50242 690,831.50503 949.59174,851.27525 1011,416.64789 1011,416.64789 l 0,635.71431 -1011,0 z"
+       id="rect3765"
+       style="fill:url(#linearGradient3776);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       d="M 98.571426,305.14286 -24.1463,133.61309 55.885177,308.82301 13.544397,102.20897 15.392496,294.82293 60.749767,88.850073 -15.905065,265.56337 109.30757,95.846263 -32.595873,226.10356 150.82173,121.98784 -31.793936,183.26647 178.11406,162.75469 -13.637916,144.45902 186.46548,211.09785 18.732846,116.39137 174.43194,258.65835 59.721152,103.91667 144.09416,297.21255 102.23975,109.19191 100.69781,320.09407 138.93679,131.30495 51.746518,323.3465 163.46702,166.43225 5.7044062,306.40746 171.58894,208.49998 -29.467427,272.20586 161.89819,250.23424 -47.687451,226.65547 136.0704,284.41881 -45.80526,177.63237 z"
+       transform="translate(61.428571,530.07646)"
+       id="path3004"
+       style="fill:#a400ff;fill-opacity:0.49315066;stroke:none" />
+    <text
+       x="17.142855"
+       y="790.93359"
+       id="text3774"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#6f00ff;stroke-opacity:1;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"><tspan
+         x="17.142855"
+         y="790.93359"
+         id="tspan3776">The Classical Music Company</tspan></text>
+  </g>
+</svg>
